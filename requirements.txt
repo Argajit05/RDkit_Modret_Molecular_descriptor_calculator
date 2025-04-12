@@ -1,0 +1,4 @@
+pandas==<version_you_used_e.g., 2.0.3>
+numpy==<version_you_used_e.g., 1.25.2>
+rdkit==<version_you_used_e.g., 2023.09.5>
+mordred==<version_you_used_e.g., 1.2.0>
