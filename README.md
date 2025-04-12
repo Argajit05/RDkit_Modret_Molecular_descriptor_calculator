@@ -72,3 +72,8 @@ Smiles,OtherData,MolWt,LogP,TPSA,...,mordred_descriptor_N
 COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F,Value1,378.36,3.95,58.12,...,12.34
 CCCC(C)(COC(=O)N)COC(=O)N,Value2,248.28,0.45,116.58,...,5.67
 ```` 
+## Troubleshooting
+Please refer to the TROUBLESHOOTING.md guide for common issues and solutions.
+
+## License
+[MIT License]
