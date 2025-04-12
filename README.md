@@ -58,6 +58,7 @@ python calculate_descriptors.py -i data/my_molecules.csv -o data/my_molecules_de
 
 ## Input File Format
 The input file must be a CSV file containing at least one column with SMILES strings. By default, the script looks for a column named Smiles. Use the -s argument if your column has a different name.
+```
 Example data/ALLDrugswithSMILES.csv:
 Smiles,OtherData
 COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F,Value1
