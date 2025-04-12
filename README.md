@@ -63,13 +63,12 @@ Example data/ALLDrugswithSMILES.csv:
 Smiles,OtherData
 COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F,Value1
 CCCC(C)(COC(=O)N)COC(=O)N,Value2
-...
+```
 ## Output File Format
 The output CSV file will contain all columns from the input file, plus new columns for each calculated RDKit and Mordred descriptor. Rows corresponding to invalid input SMILES will have NaN values in the descriptor columns.
+```
 Example data/output_descriptors.csv:
 Smiles,OtherData,MolWt,LogP,TPSA,...,mordred_descriptor_N
 COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F,Value1,378.36,3.95,58.12,...,12.34
 CCCC(C)(COC(=O)N)COC(=O)N,Value2,248.28,0.45,116.58,...,5.67
-...
-
 ```` 
