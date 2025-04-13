@@ -1,6 +1,6 @@
 # Molecular Descriptor Calculator 2025_version
 
-I've been attempting to calculate molecular descriptors using publicly available resources like YouTube tutorials and websites, but I've encountered issues with obsolete code that doesn't work due to version incompatibilities. This updated code provides a working solution for calculating molecular descriptors with current software versions.
+We've been attempting to calculate molecular descriptors using publicly available resources like YouTube tutorials and websites, but I've encountered issues with obsolete code that doesn't work due to version incompatibilities. This updated code provides a working solution for calculating molecular descriptors with current software versions.
 
 "Calculates a comprehensive set of 2D molecular descriptors using RDKit and Mordred from a list of SMILES strings."
 
