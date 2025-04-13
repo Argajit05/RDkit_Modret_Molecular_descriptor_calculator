@@ -24,7 +24,7 @@ We've been attempting to calculate molecular descriptors using publicly availabl
 1.  **Clone the repository:**
     ```bash
     git clone <your-repository-url>
-    cd molecular_descriptor_calculator
+    cd calculate_descriptors
     ```
 
 2.  **Create and activate a virtual environment (Recommended):**
